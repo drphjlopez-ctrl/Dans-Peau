@@ -1,0 +1,7 @@
+{
+  "name": "Dans Peau - Consultora Virtual",
+  "description": "AI-powered aesthetic consultation app for Dans Peau clinic that analyzes skin conditions and recommends specific treatment packages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
